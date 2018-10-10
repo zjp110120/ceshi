@@ -1,6 +1,5 @@
 Main()
 {
   print"Hello Word"
-  print"Hello Word°¡°¡Ê®´ó"
-
+  print"Hello Word nicaicai"
 }
